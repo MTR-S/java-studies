@@ -1,1 +1,1 @@
-# java-studies
+# Study java with me ☕️
