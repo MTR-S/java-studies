@@ -1,7 +1,0 @@
--> Livro
-1) Mudança dos atributos da classe
-
-
--> Main
-1) Instância objetos da classe livro
-2) Método consultaAcervo atualizado
